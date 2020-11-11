@@ -3,7 +3,7 @@
 // StyleDictionaryColor.h
 //
 // Do not edit directly
-// Generated on Fri, 06 Nov 2020 20:33:02 GMT
+// Generated on Wed, 11 Nov 2020 18:37:08 GMT
 //
 
 #import <UIKit/UIKit.h>
@@ -34,7 +34,21 @@ GradientSingleWithMultipleColorStopsStops3Color,
 EffectDropShadowSingleColor,
 EffectInnerShadowMultiple0Color,
 EffectInnerShadowMultiple1Color,
-EffectInnerShadowMultiple2Color
+EffectInnerShadowMultiple2Color,
+Voorgrond,
+Grijs6,
+Grijs5,
+Grijs4,
+Grijs3,
+Grijs2,
+Grijs1,
+Achtergrond,
+FeedbackInformatie,
+FeedbackSucces,
+FeedbackWaarschuwing,
+FeedbackFoutmelding,
+Link,
+LinkVisited
 };
 
 @interface StyleDictionaryColor : NSObject

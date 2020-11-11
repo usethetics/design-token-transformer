@@ -3,7 +3,7 @@
 // StyleDictionarySize.m
 //
 // Do not edit directly
-// Generated on Fri, 06 Nov 2020 20:33:02 GMT
+// Generated on Wed, 11 Nov 2020 18:37:08 GMT
 //
 
 #import "StyleDictionarySize.h"
@@ -110,3 +110,53 @@ float const EffectInnerShadowMultiple2OffsetY = 2;
 float const EffectInnerShadowMultiple2Spread = 11;
 float const EffectLayerBlurRadius = 4;
 float const EffectBackgroundBlurRadius = 4;
+float const BroodtekstFontSize = 16;
+float const BroodtekstLetterSpacing = 0;
+float const BroodtekstLineHeight = 24;
+float const BroodtekstParagraphIndent = 0;
+float const BroodtekstParagraphSpacing = 8;
+float const H6FontSize = 16;
+float const H6LetterSpacing = 0;
+float const H6LineHeight = 19.2;
+float const H6ParagraphIndent = 0;
+float const H6ParagraphSpacing = 0;
+float const H5FontSize = 18;
+float const H5LetterSpacing = 0;
+float const H5LineHeight = 21.6;
+float const H5ParagraphIndent = 0;
+float const H5ParagraphSpacing = 0;
+float const H4FontSize = 20;
+float const H4LetterSpacing = 0;
+float const H4LineHeight = 24;
+float const H4ParagraphIndent = 0;
+float const H4ParagraphSpacing = 0;
+float const H3FontSize = 22;
+float const H3LetterSpacing = 0;
+float const H3LineHeight = 26.4;
+float const H3ParagraphIndent = 0;
+float const H3ParagraphSpacing = 0;
+float const H2FontSize = 25;
+float const H2LetterSpacing = 0;
+float const H2LineHeight = 30;
+float const H2ParagraphIndent = 0;
+float const H2ParagraphSpacing = 0;
+float const H1FontSize = 28;
+float const H1LetterSpacing = 0;
+float const H1LineHeight = 33.6;
+float const H1ParagraphIndent = 0;
+float const H1ParagraphSpacing = 0;
+float const TekstlinkFontSize = 16;
+float const TekstlinkLetterSpacing = 0;
+float const TekstlinkLineHeight = 24;
+float const TekstlinkParagraphIndent = 0;
+float const TekstlinkParagraphSpacing = 0;
+float const BadgeFontSize = 14;
+float const BadgeLetterSpacing = 0;
+float const BadgeLineHeight = 12;
+float const BadgeParagraphIndent = 0;
+float const BadgeParagraphSpacing = 8;
+float const StatusBadgeFontSize = 12;
+float const StatusBadgeLetterSpacing = 0;
+float const StatusBadgeLineHeight = 12;
+float const StatusBadgeParagraphIndent = 0;
+float const StatusBadgeParagraphSpacing = 8;

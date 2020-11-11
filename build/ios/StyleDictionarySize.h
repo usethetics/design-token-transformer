@@ -2,7 +2,7 @@
 // StyleDictionarySize.h
 //
 // Do not edit directly
-// Generated on Fri, 06 Nov 2020 20:33:02 GMT
+// Generated on Wed, 11 Nov 2020 18:37:08 GMT
 //
 
 #import <Foundation/Foundation.h>
@@ -109,3 +109,53 @@ extern float const EffectInnerShadowMultiple2OffsetY;
 extern float const EffectInnerShadowMultiple2Spread;
 extern float const EffectLayerBlurRadius;
 extern float const EffectBackgroundBlurRadius;
+extern float const BroodtekstFontSize;
+extern float const BroodtekstLetterSpacing;
+extern float const BroodtekstLineHeight;
+extern float const BroodtekstParagraphIndent;
+extern float const BroodtekstParagraphSpacing;
+extern float const H6FontSize;
+extern float const H6LetterSpacing;
+extern float const H6LineHeight;
+extern float const H6ParagraphIndent;
+extern float const H6ParagraphSpacing;
+extern float const H5FontSize;
+extern float const H5LetterSpacing;
+extern float const H5LineHeight;
+extern float const H5ParagraphIndent;
+extern float const H5ParagraphSpacing;
+extern float const H4FontSize;
+extern float const H4LetterSpacing;
+extern float const H4LineHeight;
+extern float const H4ParagraphIndent;
+extern float const H4ParagraphSpacing;
+extern float const H3FontSize;
+extern float const H3LetterSpacing;
+extern float const H3LineHeight;
+extern float const H3ParagraphIndent;
+extern float const H3ParagraphSpacing;
+extern float const H2FontSize;
+extern float const H2LetterSpacing;
+extern float const H2LineHeight;
+extern float const H2ParagraphIndent;
+extern float const H2ParagraphSpacing;
+extern float const H1FontSize;
+extern float const H1LetterSpacing;
+extern float const H1LineHeight;
+extern float const H1ParagraphIndent;
+extern float const H1ParagraphSpacing;
+extern float const TekstlinkFontSize;
+extern float const TekstlinkLetterSpacing;
+extern float const TekstlinkLineHeight;
+extern float const TekstlinkParagraphIndent;
+extern float const TekstlinkParagraphSpacing;
+extern float const BadgeFontSize;
+extern float const BadgeLetterSpacing;
+extern float const BadgeLineHeight;
+extern float const BadgeParagraphIndent;
+extern float const BadgeParagraphSpacing;
+extern float const StatusBadgeFontSize;
+extern float const StatusBadgeLetterSpacing;
+extern float const StatusBadgeLineHeight;
+extern float const StatusBadgeParagraphIndent;
+extern float const StatusBadgeParagraphSpacing;

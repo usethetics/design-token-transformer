@@ -3,12 +3,17 @@
 // StyleDictionarySize.swift
 //
 // Do not edit directly
-// Generated on Fri, 06 Nov 2020 20:33:02 GMT
+// Generated on Wed, 11 Nov 2020 18:37:08 GMT
 //
 
 import UIKit
 
 public enum StyleDictionarySize {
+    public static let fontSize = 14
+    public static let letterSpacing = 0
+    public static let lineHeight = 12
+    public static let paragraphIndent = 0
+    public static let paragraphSpacing = 8
     public static let h3FontSize = 20
     public static let h3LetterSpacing = 2
     public static let h3LineHeight = 160
@@ -30,6 +35,11 @@ public enum StyleDictionarySize {
     public static let unsupportedImageBordersStrokeWeight = 1
     public static let unsupportedMultipleBordersStrokeMiterAngle = 4
     public static let unsupportedMultipleBordersStrokeWeight = 1
+    public static let fontSize = 16
+    public static let letterSpacing = 0
+    public static let lineHeight = 24
+    public static let paragraphIndent = 0
+    public static let paragraphSpacing = 8
     public static let backgroundBlurRadius = 4
     public static let dropShadowSingleOffsetX = 0
     public static let dropShadowSingleOffsetY = 4
@@ -94,6 +104,36 @@ public enum StyleDictionarySize {
     public static let singleCount = 5
     public static let singleGutterSize = 20
     public static let singleSectionSize = 11
+    public static let fontSize = 28
+    public static let letterSpacing = 0
+    public static let lineHeight = 33.6
+    public static let paragraphIndent = 0
+    public static let paragraphSpacing = 0
+    public static let fontSize = 25
+    public static let letterSpacing = 0
+    public static let lineHeight = 30
+    public static let paragraphIndent = 0
+    public static let paragraphSpacing = 0
+    public static let fontSize = 22
+    public static let letterSpacing = 0
+    public static let lineHeight = 26.4
+    public static let paragraphIndent = 0
+    public static let paragraphSpacing = 0
+    public static let fontSize = 20
+    public static let letterSpacing = 0
+    public static let lineHeight = 24
+    public static let paragraphIndent = 0
+    public static let paragraphSpacing = 0
+    public static let fontSize = 18
+    public static let letterSpacing = 0
+    public static let lineHeight = 21.6
+    public static let paragraphIndent = 0
+    public static let paragraphSpacing = 0
+    public static let fontSize = 16
+    public static let letterSpacing = 0
+    public static let lineHeight = 19.2
+    public static let paragraphIndent = 0
+    public static let paragraphSpacing = 0
     public static let mixedRadiiBottomLeft = 0
     public static let mixedRadiiBottomRight = 3.5
     public static let mixedRadiiTopLeft = 1
@@ -109,4 +149,14 @@ public enum StyleDictionarySize {
     public static let frame = 32
     public static let rect = 32
     public static let shapeInComponent = 32
+    public static let fontSize = 12
+    public static let letterSpacing = 0
+    public static let lineHeight = 12
+    public static let paragraphIndent = 0
+    public static let paragraphSpacing = 8
+    public static let fontSize = 16
+    public static let letterSpacing = 0
+    public static let lineHeight = 24
+    public static let paragraphIndent = 0
+    public static let paragraphSpacing = 0
 }
