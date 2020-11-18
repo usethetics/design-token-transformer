@@ -3,7 +3,7 @@
 // StyleDictionarySize.swift
 //
 // Do not edit directly
-// Generated on Wed, 11 Nov 2020 19:07:16 GMT
+// Generated on Wed, 18 Nov 2020 10:37:38 GMT
 //
 
 import UIKit
@@ -11,7 +11,7 @@ import UIKit
 public enum StyleDictionarySize {
     public static let fontSize = 14
     public static let letterSpacing = 0
-    public static let lineHeight = 12
+    public static let lineHeight = 19
     public static let paragraphIndent = 0
     public static let paragraphSpacing = 8
     public static let h3FontSize = 20
@@ -106,7 +106,7 @@ public enum StyleDictionarySize {
     public static let singleSectionSize = 11
     public static let fontSize = 28
     public static let letterSpacing = 0
-    public static let lineHeight = 33.6
+    public static let lineHeight = 34
     public static let paragraphIndent = 0
     public static let paragraphSpacing = 0
     public static let fontSize = 25
@@ -116,7 +116,7 @@ public enum StyleDictionarySize {
     public static let paragraphSpacing = 0
     public static let fontSize = 22
     public static let letterSpacing = 0
-    public static let lineHeight = 26.4
+    public static let lineHeight = 26
     public static let paragraphIndent = 0
     public static let paragraphSpacing = 0
     public static let fontSize = 20
@@ -126,12 +126,12 @@ public enum StyleDictionarySize {
     public static let paragraphSpacing = 0
     public static let fontSize = 18
     public static let letterSpacing = 0
-    public static let lineHeight = 21.6
+    public static let lineHeight = 22
     public static let paragraphIndent = 0
     public static let paragraphSpacing = 0
     public static let fontSize = 16
     public static let letterSpacing = 0
-    public static let lineHeight = 19.2
+    public static let lineHeight = 19
     public static let paragraphIndent = 0
     public static let paragraphSpacing = 0
     public static let mixedRadiiBottomLeft = 0

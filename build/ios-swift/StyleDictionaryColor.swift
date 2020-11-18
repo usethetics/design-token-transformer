@@ -3,7 +3,7 @@
 // StyleDictionaryColor.swift
 //
 // Do not edit directly
-// Generated on Wed, 11 Nov 2020 19:07:16 GMT
+// Generated on Wed, 18 Nov 2020 10:37:38 GMT
 //
 
 import UIKit
@@ -24,9 +24,13 @@ public enum StyleDictionaryColor {
     public static let innerShadowMultiple1Color = rgba(0, 0, 0, 1)
     public static let innerShadowMultiple2Color = rgba(0, 0, 0, 0.25)
     public static let  = rgba(220, 20, 60, 1)
+    public static let  = rgba(220, 20, 60, 0.05)
     public static let  = rgba(30, 144, 255, 1)
+    public static let  = rgba(30, 144, 255, 0.05)
     public static let  = rgba(0, 128, 0, 1)
+    public static let  = rgba(0, 128, 0, 0.05)
     public static let  = rgba(255, 165, 0, 1)
+    public static let  = rgba(255, 165, 0, 0.05)
     public static let multiple0Stops0Color = rgba(255, 184, 0, 1)
     public static let multiple0Stops1Color = rgba(255, 184, 0, 1)
     public static let multiple1Stops0Color = rgba(255, 255, 255, 1)
@@ -47,5 +51,6 @@ public enum StyleDictionaryColor {
     public static let  = rgba(63, 63, 63, 1)
     public static let  = rgba(0, 0, 205, 1)
     public static let  = rgba(128, 0, 128, 1)
+    public static let  = rgba(255, 255, 255, 1)
     public static let  = rgba(27, 27, 27, 1)
 }

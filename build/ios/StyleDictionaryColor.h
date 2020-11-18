@@ -3,7 +3,7 @@
 // StyleDictionaryColor.h
 //
 // Do not edit directly
-// Generated on Wed, 11 Nov 2020 19:07:16 GMT
+// Generated on Wed, 18 Nov 2020 10:37:38 GMT
 //
 
 #import <UIKit/UIKit.h>
@@ -48,7 +48,12 @@ FeedbackSucces,
 FeedbackWaarschuwing,
 FeedbackFoutmelding,
 Link,
-LinkVisited
+LinkVisited,
+Transparant,
+FeedbackInformatieAchtergrond,
+FeedbackSuccesAchtergrond,
+FeedbackWaarschuwingAchtergrond,
+FeedbackFoutmeldingAchtergrond
 };
 
 @interface StyleDictionaryColor : NSObject

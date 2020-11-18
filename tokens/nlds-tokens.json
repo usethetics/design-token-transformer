@@ -71,6 +71,27 @@
   },
   "transparant": {
     "category": "fill",
+    "value": "rgba(255, 255, 255, 1)",
+    "type": "color"
+  },
+  "feedback-informatie achtergrond": {
+    "category": "fill",
+    "value": "rgba(30, 144, 255, 0.05)",
+    "type": "color"
+  },
+  "feedback-succes achtergrond": {
+    "category": "fill",
+    "value": "rgba(0, 128, 0, 0.05)",
+    "type": "color"
+  },
+  "feedback-waarschuwing achtergrond": {
+    "category": "fill",
+    "value": "rgba(255, 165, 0, 0.05)",
+    "type": "color"
+  },
+  "feedback-foutmelding achtergrond": {
+    "category": "fill",
+    "value": "rgba(220, 20, 60, 0.05)",
     "type": "color"
   },
   "broodtekst": {
@@ -140,7 +161,7 @@
       "unit": "percent"
     },
     "lineHeight": {
-      "value": 19.2,
+      "value": 19,
       "type": "number",
       "unit": "pixels"
     },
@@ -183,7 +204,7 @@
       "unit": "percent"
     },
     "lineHeight": {
-      "value": 21.6,
+      "value": 22,
       "type": "number",
       "unit": "pixels"
     },
@@ -269,7 +290,7 @@
       "unit": "percent"
     },
     "lineHeight": {
-      "value": 26.4,
+      "value": 26,
       "type": "number",
       "unit": "pixels"
     },
@@ -355,7 +376,7 @@
       "unit": "percent"
     },
     "lineHeight": {
-      "value": 33.6,
+      "value": 34,
       "type": "number",
       "unit": "pixels"
     },
@@ -441,7 +462,7 @@
       "unit": "percent"
     },
     "lineHeight": {
-      "value": 12,
+      "value": 19,
       "type": "number",
       "unit": "pixels"
     },

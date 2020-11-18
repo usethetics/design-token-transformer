@@ -1,6 +1,6 @@
 
 // Do not edit directly
-// Generated on Wed, 11 Nov 2020 19:07:16 GMT
+// Generated on Wed, 18 Nov 2020 10:37:38 GMT
 
 $sizes-32: 32.72; // 32.72px spacer component
 $sizes-frame: 32;
@@ -204,6 +204,11 @@ $feedback-waarschuwing: rgba(255, 165, 0, 1);
 $feedback-foutmelding: rgba(220, 20, 60, 1);
 $link: rgba(0, 0, 205, 1);
 $link-visited: rgba(128, 0, 128, 1);
+$transparant: rgba(255, 255, 255, 1);
+$feedback-informatie-achtergrond: rgba(30, 144, 255, 0.05);
+$feedback-succes-achtergrond: rgba(0, 128, 0, 0.05);
+$feedback-waarschuwing-achtergrond: rgba(255, 165, 0, 0.05);
+$feedback-foutmelding-achtergrond: rgba(220, 20, 60, 0.05);
 $broodtekst-font-size: 16;
 $broodtekst-text-decoration: none;
 $broodtekst-font-family: Arial;
@@ -218,7 +223,7 @@ $h-6-text-decoration: none;
 $h-6-font-family: Arial;
 $h-6-font-style: Bold;
 $h-6-letter-spacing: 0;
-$h-6-line-height: 19.2;
+$h-6-line-height: 19;
 $h-6-paragraph-indent: 0;
 $h-6-paragraph-spacing: 0;
 $h-6-text-case: none;
@@ -227,7 +232,7 @@ $h-5-text-decoration: none;
 $h-5-font-family: Arial;
 $h-5-font-style: Bold;
 $h-5-letter-spacing: 0;
-$h-5-line-height: 21.6;
+$h-5-line-height: 22;
 $h-5-paragraph-indent: 0;
 $h-5-paragraph-spacing: 0;
 $h-5-text-case: none;
@@ -245,7 +250,7 @@ $h-3-text-decoration: none;
 $h-3-font-family: Arial;
 $h-3-font-style: Bold;
 $h-3-letter-spacing: 0;
-$h-3-line-height: 26.4;
+$h-3-line-height: 26;
 $h-3-paragraph-indent: 0;
 $h-3-paragraph-spacing: 0;
 $h-3-text-case: none;
@@ -263,7 +268,7 @@ $h-1-text-decoration: none;
 $h-1-font-family: Arial;
 $h-1-font-style: Bold;
 $h-1-letter-spacing: 0;
-$h-1-line-height: 33.6;
+$h-1-line-height: 34;
 $h-1-paragraph-indent: 0;
 $h-1-paragraph-spacing: 0;
 $h-1-text-case: none;
@@ -281,7 +286,7 @@ $badge-text-decoration: none;
 $badge-font-family: Arial;
 $badge-font-style: Bold;
 $badge-letter-spacing: 0;
-$badge-line-height: 12;
+$badge-line-height: 19;
 $badge-paragraph-indent: 0;
 $badge-paragraph-spacing: 8;
 $badge-text-case: none;

@@ -3,7 +3,7 @@
 // StyleDictionary.swift
 //
 // Do not edit directly
-// Generated on Wed, 11 Nov 2020 19:07:16 GMT
+// Generated on Wed, 18 Nov 2020 10:37:38 GMT
 //
 
 
@@ -15,7 +15,7 @@ public class StyleDictionary {
     public static let badgeFontSize = 14
     public static let badgeFontStyle = Bold
     public static let badgeLetterSpacing = 0
-    public static let badgeLineHeight = 12
+    public static let badgeLineHeight = 19
     public static let badgeParagraphIndent = 0
     public static let badgeParagraphSpacing = 8
     public static let badgeTextCase = none
@@ -120,9 +120,13 @@ public class StyleDictionary {
     public static let effectInnerShadowMultiple2Type = innerShadow
     public static let effectLayerBlurRadius = 4
     public static let effectLayerBlurType = layerBlur
+    public static let feedbackFoutmeldingAchtergrond = rgba(220, 20, 60, 0.05)
     public static let feedbackFoutmelding = rgba(220, 20, 60, 1)
+    public static let feedbackInformatieAchtergrond = rgba(30, 144, 255, 0.05)
     public static let feedbackInformatie = rgba(30, 144, 255, 1)
+    public static let feedbackSuccesAchtergrond = rgba(0, 128, 0, 0.05)
     public static let feedbackSucces = rgba(0, 128, 0, 1)
+    public static let feedbackWaarschuwingAchtergrond = rgba(255, 165, 0, 0.05)
     public static let feedbackWaarschuwing = rgba(255, 165, 0, 1)
     public static let gradientMultiple0GradientType = linear
     public static let gradientMultiple0Opacity = 1
@@ -214,7 +218,7 @@ public class StyleDictionary {
     public static let h1FontSize = 28
     public static let h1FontStyle = Bold
     public static let h1LetterSpacing = 0
-    public static let h1LineHeight = 33.6
+    public static let h1LineHeight = 34
     public static let h1ParagraphIndent = 0
     public static let h1ParagraphSpacing = 0
     public static let h1TextCase = none
@@ -232,7 +236,7 @@ public class StyleDictionary {
     public static let h3FontSize = 22
     public static let h3FontStyle = Bold
     public static let h3LetterSpacing = 0
-    public static let h3LineHeight = 26.4
+    public static let h3LineHeight = 26
     public static let h3ParagraphIndent = 0
     public static let h3ParagraphSpacing = 0
     public static let h3TextCase = none
@@ -250,7 +254,7 @@ public class StyleDictionary {
     public static let h5FontSize = 18
     public static let h5FontStyle = Bold
     public static let h5LetterSpacing = 0
-    public static let h5LineHeight = 21.6
+    public static let h5LineHeight = 22
     public static let h5ParagraphIndent = 0
     public static let h5ParagraphSpacing = 0
     public static let h5TextCase = none
@@ -259,7 +263,7 @@ public class StyleDictionary {
     public static let h6FontSize = 16
     public static let h6FontStyle = Bold
     public static let h6LetterSpacing = 0
-    public static let h6LineHeight = 19.2
+    public static let h6LineHeight = 19
     public static let h6ParagraphIndent = 0
     public static let h6ParagraphSpacing = 0
     public static let h6TextCase = none
@@ -301,5 +305,6 @@ public class StyleDictionary {
     public static let tekstlinkParagraphSpacing = 0
     public static let tekstlinkTextCase = none
     public static let tekstlinkTextDecoration = underline
+    public static let transparant = rgba(255, 255, 255, 1)
     public static let voorgrond = rgba(27, 27, 27, 1)
 }
