@@ -2,7 +2,7 @@
 // StyleDictionarySize.h
 //
 // Do not edit directly
-// Generated on Wed, 18 Nov 2020 10:37:38 GMT
+// Generated on Thu, 19 Nov 2020 15:57:31 GMT
 //
 
 #import <Foundation/Foundation.h>
@@ -109,11 +109,11 @@ extern float const EffectInnerShadowMultiple2OffsetY;
 extern float const EffectInnerShadowMultiple2Spread;
 extern float const EffectLayerBlurRadius;
 extern float const EffectBackgroundBlurRadius;
-extern float const BroodtekstFontSize;
-extern float const BroodtekstLetterSpacing;
-extern float const BroodtekstLineHeight;
-extern float const BroodtekstParagraphIndent;
-extern float const BroodtekstParagraphSpacing;
+extern float const BodytextFontSize;
+extern float const BodytextLetterSpacing;
+extern float const BodytextLineHeight;
+extern float const BodytextParagraphIndent;
+extern float const BodytextParagraphSpacing;
 extern float const H6FontSize;
 extern float const H6LetterSpacing;
 extern float const H6LineHeight;
@@ -159,3 +159,23 @@ extern float const StatusBadgeLetterSpacing;
 extern float const StatusBadgeLineHeight;
 extern float const StatusBadgeParagraphIndent;
 extern float const StatusBadgeParagraphSpacing;
+extern float const NotificatieKoptekstFontSize;
+extern float const NotificatieKoptekstLetterSpacing;
+extern float const NotificatieKoptekstLineHeight;
+extern float const NotificatieKoptekstParagraphIndent;
+extern float const NotificatieKoptekstParagraphSpacing;
+extern float const FormLabelFontSize;
+extern float const FormLabelLetterSpacing;
+extern float const FormLabelLineHeight;
+extern float const FormLabelParagraphIndent;
+extern float const FormLabelParagraphSpacing;
+extern float const FormPlaceholderTextFontSize;
+extern float const FormPlaceholderTextLetterSpacing;
+extern float const FormPlaceholderTextLineHeight;
+extern float const FormPlaceholderTextParagraphIndent;
+extern float const FormPlaceholderTextParagraphSpacing;
+extern float const FormHelperTextFontSize;
+extern float const FormHelperTextLetterSpacing;
+extern float const FormHelperTextLineHeight;
+extern float const FormHelperTextParagraphIndent;
+extern float const FormHelperTextParagraphSpacing;

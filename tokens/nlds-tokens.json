@@ -44,9 +44,19 @@
     "value": "rgba(30, 144, 255, 1)",
     "type": "color"
   },
+  "feedback-informatie achtergrond": {
+    "category": "fill",
+    "value": "rgba(30, 144, 255, 0.05)",
+    "type": "color"
+  },
   "feedback-succes": {
     "category": "fill",
     "value": "rgba(0, 128, 0, 1)",
+    "type": "color"
+  },
+  "feedback-succes achtergrond": {
+    "category": "fill",
+    "value": "rgba(0, 128, 0, 0.05)",
     "type": "color"
   },
   "feedback-waarschuwing": {
@@ -54,9 +64,19 @@
     "value": "rgba(255, 165, 0, 1)",
     "type": "color"
   },
+  "feedback-waarschuwing achtergrond": {
+    "category": "fill",
+    "value": "rgba(255, 165, 0, 0.05)",
+    "type": "color"
+  },
   "feedback-foutmelding": {
     "category": "fill",
     "value": "rgba(220, 20, 60, 1)",
+    "type": "color"
+  },
+  "feedback-foutmelding achtergrond": {
+    "category": "fill",
+    "value": "rgba(220, 20, 60, 0.05)",
     "type": "color"
   },
   "link": {
@@ -74,27 +94,12 @@
     "value": "rgba(255, 255, 255, 1)",
     "type": "color"
   },
-  "feedback-informatie achtergrond": {
+  "designspecs": {
     "category": "fill",
-    "value": "rgba(30, 144, 255, 0.05)",
+    "value": "rgba(255, 0, 255, 1)",
     "type": "color"
   },
-  "feedback-succes achtergrond": {
-    "category": "fill",
-    "value": "rgba(0, 128, 0, 0.05)",
-    "type": "color"
-  },
-  "feedback-waarschuwing achtergrond": {
-    "category": "fill",
-    "value": "rgba(255, 165, 0, 0.05)",
-    "type": "color"
-  },
-  "feedback-foutmelding achtergrond": {
-    "category": "fill",
-    "value": "rgba(220, 20, 60, 0.05)",
-    "type": "color"
-  },
-  "broodtekst": {
+  "bodytext": {
     "fontSize": {
       "value": 16,
       "type": "number",
@@ -521,6 +526,178 @@
     },
     "textCase": {
       "value": "uppercase",
+      "type": "string"
+    }
+  },
+  "notificatie koptekst": {
+    "fontSize": {
+      "value": 16,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "textDecoration": {
+      "value": "none",
+      "type": "string"
+    },
+    "fontFamily": {
+      "value": "Arial",
+      "type": "string"
+    },
+    "fontStyle": {
+      "value": "Bold",
+      "type": "string"
+    },
+    "letterSpacing": {
+      "value": 0,
+      "type": "number",
+      "unit": "percent"
+    },
+    "lineHeight": {
+      "value": 19,
+      "type": "number",
+      "unit": "pixels"
+    },
+    "paragraphIndent": {
+      "value": 0,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "paragraphSpacing": {
+      "value": 0,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "textCase": {
+      "value": "none",
+      "type": "string"
+    }
+  },
+  "form label": {
+    "fontSize": {
+      "value": 16,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "textDecoration": {
+      "value": "none",
+      "type": "string"
+    },
+    "fontFamily": {
+      "value": "Arial",
+      "type": "string"
+    },
+    "fontStyle": {
+      "value": "Regular",
+      "type": "string"
+    },
+    "letterSpacing": {
+      "value": 0,
+      "type": "number",
+      "unit": "percent"
+    },
+    "lineHeight": {
+      "value": 24,
+      "type": "number",
+      "unit": "pixels"
+    },
+    "paragraphIndent": {
+      "value": 0,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "paragraphSpacing": {
+      "value": 8,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "textCase": {
+      "value": "none",
+      "type": "string"
+    }
+  },
+  "form placeholder text": {
+    "fontSize": {
+      "value": 16,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "textDecoration": {
+      "value": "none",
+      "type": "string"
+    },
+    "fontFamily": {
+      "value": "Arial",
+      "type": "string"
+    },
+    "fontStyle": {
+      "value": "Regular",
+      "type": "string"
+    },
+    "letterSpacing": {
+      "value": 0,
+      "type": "number",
+      "unit": "percent"
+    },
+    "lineHeight": {
+      "value": 24,
+      "type": "number",
+      "unit": "pixels"
+    },
+    "paragraphIndent": {
+      "value": 0,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "paragraphSpacing": {
+      "value": 8,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "textCase": {
+      "value": "none",
+      "type": "string"
+    }
+  },
+  "form helper text": {
+    "fontSize": {
+      "value": 14,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "textDecoration": {
+      "value": "none",
+      "type": "string"
+    },
+    "fontFamily": {
+      "value": "Arial",
+      "type": "string"
+    },
+    "fontStyle": {
+      "value": "Regular",
+      "type": "string"
+    },
+    "letterSpacing": {
+      "value": 0,
+      "type": "number",
+      "unit": "percent"
+    },
+    "lineHeight": {
+      "value": 24,
+      "type": "number",
+      "unit": "pixels"
+    },
+    "paragraphIndent": {
+      "value": 0,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "paragraphSpacing": {
+      "value": 8,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "textCase": {
+      "value": "none",
       "type": "string"
     }
   }

@@ -3,7 +3,7 @@
 // StyleDictionaryColor.swift
 //
 // Do not edit directly
-// Generated on Wed, 18 Nov 2020 10:37:38 GMT
+// Generated on Thu, 19 Nov 2020 15:57:31 GMT
 //
 
 import UIKit
@@ -19,6 +19,7 @@ public enum StyleDictionaryColor {
     public static let singleBlue = rgba(4, 74, 255, 1)
     public static let specialCharactersAnderung = rgba(52, 86, 175, 1)
     public static let specialCharacters😅 = rgba(64, 223, 80, 1)
+    public static let  = rgba(255, 0, 255, 1)
     public static let dropShadowSingleColor = rgba(0, 0, 0, 0.25)
     public static let innerShadowMultiple0Color = rgba(0, 0, 0, 0.25)
     public static let innerShadowMultiple1Color = rgba(0, 0, 0, 1)

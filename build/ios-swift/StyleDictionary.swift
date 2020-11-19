@@ -3,7 +3,7 @@
 // StyleDictionary.swift
 //
 // Do not edit directly
-// Generated on Wed, 18 Nov 2020 10:37:38 GMT
+// Generated on Thu, 19 Nov 2020 15:57:31 GMT
 //
 
 
@@ -38,6 +38,15 @@ public class StyleDictionary {
     public static let bodyH4StrikeThroughParagraphSpacing = 0
     public static let bodyH4StrikeThroughTextCase = none
     public static let bodyH4StrikeThroughTextDecoration = line-through
+    public static let bodytextFontFamily = Arial
+    public static let bodytextFontSize = 16
+    public static let bodytextFontStyle = Regular
+    public static let bodytextLetterSpacing = 0
+    public static let bodytextLineHeight = 24
+    public static let bodytextParagraphIndent = 0
+    public static let bodytextParagraphSpacing = 8
+    public static let bodytextTextCase = none
+    public static let bodytextTextDecoration = none
     public static let bordersDashedOutsideDashPattern = 5,5,3,3
     public static let bordersDashedOutsideStroke = rgba(64, 255, 186, 1)
     public static let bordersDashedOutsideStrokeAlign = outside
@@ -78,20 +87,12 @@ public class StyleDictionary {
     public static let bordersUnsupportedMultipleBordersStrokeJoin = miter
     public static let bordersUnsupportedMultipleBordersStrokeMiterAngle = 4
     public static let bordersUnsupportedMultipleBordersStrokeWeight = 1
-    public static let broodtekstFontFamily = Arial
-    public static let broodtekstFontSize = 16
-    public static let broodtekstFontStyle = Regular
-    public static let broodtekstLetterSpacing = 0
-    public static let broodtekstLineHeight = 24
-    public static let broodtekstParagraphIndent = 0
-    public static let broodtekstParagraphSpacing = 8
-    public static let broodtekstTextCase = none
-    public static let broodtekstTextDecoration = none
     public static let colorsMultipleFills0 = rgba(64, 255, 186, 1)
     public static let colorsMultipleFills1 = rgba(0, 0, 0, 0.1)
     public static let colorsSingleBlue = rgba(4, 74, 255, 1)
     public static let colorsSpecialCharactersAnderung = rgba(52, 86, 175, 1)
     public static let colorsSpecialCharacters😅 = rgba(64, 223, 80, 1)
+    public static let designspecs = rgba(255, 0, 255, 1)
     public static let effectBackgroundBlurRadius = 4
     public static let effectBackgroundBlurType = backgroundBlur
     public static let effectDropShadowSingleColor = rgba(0, 0, 0, 0.25)
@@ -128,6 +129,33 @@ public class StyleDictionary {
     public static let feedbackSucces = rgba(0, 128, 0, 1)
     public static let feedbackWaarschuwingAchtergrond = rgba(255, 165, 0, 0.05)
     public static let feedbackWaarschuwing = rgba(255, 165, 0, 1)
+    public static let formHelperTextFontFamily = Arial
+    public static let formHelperTextFontSize = 14
+    public static let formHelperTextFontStyle = Regular
+    public static let formHelperTextLetterSpacing = 0
+    public static let formHelperTextLineHeight = 24
+    public static let formHelperTextParagraphIndent = 0
+    public static let formHelperTextParagraphSpacing = 8
+    public static let formHelperTextTextCase = none
+    public static let formHelperTextTextDecoration = none
+    public static let formLabelFontFamily = Arial
+    public static let formLabelFontSize = 16
+    public static let formLabelFontStyle = Regular
+    public static let formLabelLetterSpacing = 0
+    public static let formLabelLineHeight = 24
+    public static let formLabelParagraphIndent = 0
+    public static let formLabelParagraphSpacing = 8
+    public static let formLabelTextCase = none
+    public static let formLabelTextDecoration = none
+    public static let formPlaceholderTextFontFamily = Arial
+    public static let formPlaceholderTextFontSize = 16
+    public static let formPlaceholderTextFontStyle = Regular
+    public static let formPlaceholderTextLetterSpacing = 0
+    public static let formPlaceholderTextLineHeight = 24
+    public static let formPlaceholderTextParagraphIndent = 0
+    public static let formPlaceholderTextParagraphSpacing = 8
+    public static let formPlaceholderTextTextCase = none
+    public static let formPlaceholderTextTextDecoration = none
     public static let gradientMultiple0GradientType = linear
     public static let gradientMultiple0Opacity = 1
     public static let gradientMultiple0Stops0Color = rgba(255, 184, 0, 1)
@@ -270,6 +298,15 @@ public class StyleDictionary {
     public static let h6TextDecoration = none
     public static let linkVisited = rgba(128, 0, 128, 1)
     public static let link = rgba(0, 0, 205, 1)
+    public static let notificatieKoptekstFontFamily = Arial
+    public static let notificatieKoptekstFontSize = 16
+    public static let notificatieKoptekstFontStyle = Bold
+    public static let notificatieKoptekstLetterSpacing = 0
+    public static let notificatieKoptekstLineHeight = 19
+    public static let notificatieKoptekstParagraphIndent = 0
+    public static let notificatieKoptekstParagraphSpacing = 0
+    public static let notificatieKoptekstTextCase = none
+    public static let notificatieKoptekstTextDecoration = none
     public static let radiiMixedRadiiBottomLeft = 0
     public static let radiiMixedRadiiBottomRight = 3.5
     public static let radiiMixedRadiiTopLeft = 1

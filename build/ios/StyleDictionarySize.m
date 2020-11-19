@@ -3,7 +3,7 @@
 // StyleDictionarySize.m
 //
 // Do not edit directly
-// Generated on Wed, 18 Nov 2020 10:37:38 GMT
+// Generated on Thu, 19 Nov 2020 15:57:31 GMT
 //
 
 #import "StyleDictionarySize.h"
@@ -110,11 +110,11 @@ float const EffectInnerShadowMultiple2OffsetY = 2;
 float const EffectInnerShadowMultiple2Spread = 11;
 float const EffectLayerBlurRadius = 4;
 float const EffectBackgroundBlurRadius = 4;
-float const BroodtekstFontSize = 16;
-float const BroodtekstLetterSpacing = 0;
-float const BroodtekstLineHeight = 24;
-float const BroodtekstParagraphIndent = 0;
-float const BroodtekstParagraphSpacing = 8;
+float const BodytextFontSize = 16;
+float const BodytextLetterSpacing = 0;
+float const BodytextLineHeight = 24;
+float const BodytextParagraphIndent = 0;
+float const BodytextParagraphSpacing = 8;
 float const H6FontSize = 16;
 float const H6LetterSpacing = 0;
 float const H6LineHeight = 19;
@@ -160,3 +160,23 @@ float const StatusBadgeLetterSpacing = 0;
 float const StatusBadgeLineHeight = 12;
 float const StatusBadgeParagraphIndent = 0;
 float const StatusBadgeParagraphSpacing = 8;
+float const NotificatieKoptekstFontSize = 16;
+float const NotificatieKoptekstLetterSpacing = 0;
+float const NotificatieKoptekstLineHeight = 19;
+float const NotificatieKoptekstParagraphIndent = 0;
+float const NotificatieKoptekstParagraphSpacing = 0;
+float const FormLabelFontSize = 16;
+float const FormLabelLetterSpacing = 0;
+float const FormLabelLineHeight = 24;
+float const FormLabelParagraphIndent = 0;
+float const FormLabelParagraphSpacing = 8;
+float const FormPlaceholderTextFontSize = 16;
+float const FormPlaceholderTextLetterSpacing = 0;
+float const FormPlaceholderTextLineHeight = 24;
+float const FormPlaceholderTextParagraphIndent = 0;
+float const FormPlaceholderTextParagraphSpacing = 8;
+float const FormHelperTextFontSize = 14;
+float const FormHelperTextLetterSpacing = 0;
+float const FormHelperTextLineHeight = 24;
+float const FormHelperTextParagraphIndent = 0;
+float const FormHelperTextParagraphSpacing = 8;
