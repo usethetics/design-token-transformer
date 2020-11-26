@@ -1,80 +1,80 @@
 {
-  "voorgrond": {
+  "foreground": {
     "category": "fill",
     "value": "rgba(27, 27, 27, 1)",
     "type": "color"
   },
-  "grijs-6": {
+  "grey-6": {
     "category": "fill",
     "value": "rgba(63, 63, 63, 1)",
     "type": "color"
   },
-  "grijs-5": {
+  "grey-5": {
     "category": "fill",
     "value": "rgba(100, 100, 100, 1)",
     "type": "color"
   },
-  "grijs-4": {
+  "grey-4": {
     "category": "fill",
     "value": "rgba(136, 136, 136, 1)",
     "type": "color"
   },
-  "grijs-3": {
+  "grey-3": {
     "category": "fill",
     "value": "rgba(172, 172, 172, 1)",
     "type": "color"
   },
-  "grijs-2": {
+  "grey-2": {
     "category": "fill",
     "value": "rgba(209, 209, 209, 1)",
     "type": "color"
   },
-  "grijs-1": {
+  "grey-1": {
     "category": "fill",
     "value": "rgba(245, 245, 245, 1)",
     "type": "color"
   },
-  "achtergrond": {
+  "background": {
     "category": "fill",
     "value": "rgba(255, 255, 255, 1)",
     "type": "color"
   },
-  "feedback-informatie": {
+  "feedback-information": {
     "category": "fill",
     "value": "rgba(30, 144, 255, 1)",
     "type": "color"
   },
-  "feedback-informatie achtergrond": {
+  "feedback-information-background": {
     "category": "fill",
     "value": "rgba(30, 144, 255, 0.05)",
     "type": "color"
   },
-  "feedback-succes": {
+  "feedback-success": {
     "category": "fill",
     "value": "rgba(0, 128, 0, 1)",
     "type": "color"
   },
-  "feedback-succes achtergrond": {
+  "feedback-success-background": {
     "category": "fill",
     "value": "rgba(0, 128, 0, 0.05)",
     "type": "color"
   },
-  "feedback-waarschuwing": {
+  "feedback-warning": {
     "category": "fill",
     "value": "rgba(255, 165, 0, 1)",
     "type": "color"
   },
-  "feedback-waarschuwing achtergrond": {
+  "feedback-warning-background": {
     "category": "fill",
     "value": "rgba(255, 165, 0, 0.05)",
     "type": "color"
   },
-  "feedback-foutmelding": {
+  "feedback-error": {
     "category": "fill",
     "value": "rgba(220, 20, 60, 1)",
     "type": "color"
   },
-  "feedback-foutmelding achtergrond": {
+  "feedback-error-background": {
     "category": "fill",
     "value": "rgba(220, 20, 60, 0.05)",
     "type": "color"
@@ -89,7 +89,7 @@
     "value": "rgba(128, 0, 128, 1)",
     "type": "color"
   },
-  "transparant": {
+  "transparent": {
     "category": "fill",
     "value": "rgba(255, 255, 255, 1)",
     "type": "color"
@@ -400,7 +400,7 @@
       "type": "string"
     }
   },
-  "tekstlink": {
+  "textlink": {
     "fontSize": {
       "value": 16,
       "type": "number",
@@ -529,7 +529,7 @@
       "type": "string"
     }
   },
-  "notificatie koptekst": {
+  "notification heading": {
     "fontSize": {
       "value": 16,
       "type": "number",
@@ -699,6 +699,39 @@
     "textCase": {
       "value": "none",
       "type": "string"
+    }
+  },
+  "focus": {
+    "category": "effect",
+    "type": {
+      "value": "dropShadow",
+      "type": "string"
+    },
+    "radius": {
+      "value": 4,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "color": {
+      "value": "rgba(100, 100, 100, 0.5)",
+      "type": "color"
+    },
+    "offset": {
+      "x": {
+        "value": 0,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "y": {
+        "value": 0,
+        "type": "number",
+        "unit": "pixel"
+      }
+    },
+    "spread": {
+      "value": 4,
+      "type": "number",
+      "unit": "pixel"
     }
   }
 }

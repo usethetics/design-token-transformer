@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 19 Nov 2020 15:57:31 GMT
+ * Generated on Thu, 26 Nov 2020 20:25:36 GMT
  */
 
 :root {
@@ -192,25 +192,25 @@
   --effect-layer-blur-radius: 4;
   --effect-background-blur-type: backgroundBlur;
   --effect-background-blur-radius: 4;
-  --voorgrond: rgba(27, 27, 27, 1);
-  --grijs-6: rgba(63, 63, 63, 1);
-  --grijs-5: rgba(100, 100, 100, 1);
-  --grijs-4: rgba(136, 136, 136, 1);
-  --grijs-3: rgba(172, 172, 172, 1);
-  --grijs-2: rgba(209, 209, 209, 1);
-  --grijs-1: rgba(245, 245, 245, 1);
-  --achtergrond: rgba(255, 255, 255, 1);
-  --feedback-informatie: rgba(30, 144, 255, 1);
-  --feedback-informatie-achtergrond: rgba(30, 144, 255, 0.05);
-  --feedback-succes: rgba(0, 128, 0, 1);
-  --feedback-succes-achtergrond: rgba(0, 128, 0, 0.05);
-  --feedback-waarschuwing: rgba(255, 165, 0, 1);
-  --feedback-waarschuwing-achtergrond: rgba(255, 165, 0, 0.05);
-  --feedback-foutmelding: rgba(220, 20, 60, 1);
-  --feedback-foutmelding-achtergrond: rgba(220, 20, 60, 0.05);
+  --foreground: rgba(27, 27, 27, 1);
+  --grey-6: rgba(63, 63, 63, 1);
+  --grey-5: rgba(100, 100, 100, 1);
+  --grey-4: rgba(136, 136, 136, 1);
+  --grey-3: rgba(172, 172, 172, 1);
+  --grey-2: rgba(209, 209, 209, 1);
+  --grey-1: rgba(245, 245, 245, 1);
+  --background: rgba(255, 255, 255, 1);
+  --feedback-information: rgba(30, 144, 255, 1);
+  --feedback-information-background: rgba(30, 144, 255, 0.05);
+  --feedback-success: rgba(0, 128, 0, 1);
+  --feedback-success-background: rgba(0, 128, 0, 0.05);
+  --feedback-warning: rgba(255, 165, 0, 1);
+  --feedback-warning-background: rgba(255, 165, 0, 0.05);
+  --feedback-error: rgba(220, 20, 60, 1);
+  --feedback-error-background: rgba(220, 20, 60, 0.05);
   --link: rgba(0, 0, 205, 1);
   --link-visited: rgba(128, 0, 128, 1);
-  --transparant: rgba(255, 255, 255, 1);
+  --transparent: rgba(255, 255, 255, 1);
   --designspecs: rgba(255, 0, 255, 1);
   --bodytext-font-size: 16;
   --bodytext-text-decoration: none;
@@ -275,15 +275,15 @@
   --h-1-paragraph-indent: 0;
   --h-1-paragraph-spacing: 0;
   --h-1-text-case: none;
-  --tekstlink-font-size: 16;
-  --tekstlink-text-decoration: underline;
-  --tekstlink-font-family: Arial;
-  --tekstlink-font-style: Regular;
-  --tekstlink-letter-spacing: 0;
-  --tekstlink-line-height: 24;
-  --tekstlink-paragraph-indent: 0;
-  --tekstlink-paragraph-spacing: 0;
-  --tekstlink-text-case: none;
+  --textlink-font-size: 16;
+  --textlink-text-decoration: underline;
+  --textlink-font-family: Arial;
+  --textlink-font-style: Regular;
+  --textlink-letter-spacing: 0;
+  --textlink-line-height: 24;
+  --textlink-paragraph-indent: 0;
+  --textlink-paragraph-spacing: 0;
+  --textlink-text-case: none;
   --badge-font-size: 14;
   --badge-text-decoration: none;
   --badge-font-family: Arial;
@@ -302,15 +302,15 @@
   --status-badge-paragraph-indent: 0;
   --status-badge-paragraph-spacing: 8;
   --status-badge-text-case: uppercase;
-  --notificatie-koptekst-font-size: 16;
-  --notificatie-koptekst-text-decoration: none;
-  --notificatie-koptekst-font-family: Arial;
-  --notificatie-koptekst-font-style: Bold;
-  --notificatie-koptekst-letter-spacing: 0;
-  --notificatie-koptekst-line-height: 19;
-  --notificatie-koptekst-paragraph-indent: 0;
-  --notificatie-koptekst-paragraph-spacing: 0;
-  --notificatie-koptekst-text-case: none;
+  --notification-heading-font-size: 16;
+  --notification-heading-text-decoration: none;
+  --notification-heading-font-family: Arial;
+  --notification-heading-font-style: Bold;
+  --notification-heading-letter-spacing: 0;
+  --notification-heading-line-height: 19;
+  --notification-heading-paragraph-indent: 0;
+  --notification-heading-paragraph-spacing: 0;
+  --notification-heading-text-case: none;
   --form-label-font-size: 16;
   --form-label-text-decoration: none;
   --form-label-font-family: Arial;
@@ -338,4 +338,10 @@
   --form-helper-text-paragraph-indent: 0;
   --form-helper-text-paragraph-spacing: 8;
   --form-helper-text-text-case: none;
+  --focus-type: dropShadow;
+  --focus-radius: 4;
+  --focus-color: rgba(100, 100, 100, 0.5);
+  --focus-offset-x: 0;
+  --focus-offset-y: 0;
+  --focus-spread: 4;
 }

@@ -3,7 +3,7 @@
 // StyleDictionarySize.m
 //
 // Do not edit directly
-// Generated on Thu, 19 Nov 2020 15:57:31 GMT
+// Generated on Thu, 26 Nov 2020 20:25:36 GMT
 //
 
 #import "StyleDictionarySize.h"
@@ -145,11 +145,11 @@ float const H1LetterSpacing = 0;
 float const H1LineHeight = 34;
 float const H1ParagraphIndent = 0;
 float const H1ParagraphSpacing = 0;
-float const TekstlinkFontSize = 16;
-float const TekstlinkLetterSpacing = 0;
-float const TekstlinkLineHeight = 24;
-float const TekstlinkParagraphIndent = 0;
-float const TekstlinkParagraphSpacing = 0;
+float const TextlinkFontSize = 16;
+float const TextlinkLetterSpacing = 0;
+float const TextlinkLineHeight = 24;
+float const TextlinkParagraphIndent = 0;
+float const TextlinkParagraphSpacing = 0;
 float const BadgeFontSize = 14;
 float const BadgeLetterSpacing = 0;
 float const BadgeLineHeight = 19;
@@ -160,11 +160,11 @@ float const StatusBadgeLetterSpacing = 0;
 float const StatusBadgeLineHeight = 12;
 float const StatusBadgeParagraphIndent = 0;
 float const StatusBadgeParagraphSpacing = 8;
-float const NotificatieKoptekstFontSize = 16;
-float const NotificatieKoptekstLetterSpacing = 0;
-float const NotificatieKoptekstLineHeight = 19;
-float const NotificatieKoptekstParagraphIndent = 0;
-float const NotificatieKoptekstParagraphSpacing = 0;
+float const NotificationHeadingFontSize = 16;
+float const NotificationHeadingLetterSpacing = 0;
+float const NotificationHeadingLineHeight = 19;
+float const NotificationHeadingParagraphIndent = 0;
+float const NotificationHeadingParagraphSpacing = 0;
 float const FormLabelFontSize = 16;
 float const FormLabelLetterSpacing = 0;
 float const FormLabelLineHeight = 24;
@@ -180,3 +180,7 @@ float const FormHelperTextLetterSpacing = 0;
 float const FormHelperTextLineHeight = 24;
 float const FormHelperTextParagraphIndent = 0;
 float const FormHelperTextParagraphSpacing = 8;
+float const FocusRadius = 4;
+float const FocusOffsetX = 0;
+float const FocusOffsetY = 0;
+float const FocusSpread = 4;

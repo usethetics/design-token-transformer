@@ -3,14 +3,14 @@
 // StyleDictionary.swift
 //
 // Do not edit directly
-// Generated on Thu, 19 Nov 2020 15:57:31 GMT
+// Generated on Thu, 26 Nov 2020 20:25:36 GMT
 //
 
 
 import UIKit
 
 public class StyleDictionary {
-    public static let achtergrond = rgba(255, 255, 255, 1)
+    public static let background = rgba(255, 255, 255, 1)
     public static let badgeFontFamily = Arial
     public static let badgeFontSize = 14
     public static let badgeFontStyle = Bold
@@ -121,14 +121,21 @@ public class StyleDictionary {
     public static let effectInnerShadowMultiple2Type = innerShadow
     public static let effectLayerBlurRadius = 4
     public static let effectLayerBlurType = layerBlur
-    public static let feedbackFoutmeldingAchtergrond = rgba(220, 20, 60, 0.05)
-    public static let feedbackFoutmelding = rgba(220, 20, 60, 1)
-    public static let feedbackInformatieAchtergrond = rgba(30, 144, 255, 0.05)
-    public static let feedbackInformatie = rgba(30, 144, 255, 1)
-    public static let feedbackSuccesAchtergrond = rgba(0, 128, 0, 0.05)
-    public static let feedbackSucces = rgba(0, 128, 0, 1)
-    public static let feedbackWaarschuwingAchtergrond = rgba(255, 165, 0, 0.05)
-    public static let feedbackWaarschuwing = rgba(255, 165, 0, 1)
+    public static let feedbackErrorBackground = rgba(220, 20, 60, 0.05)
+    public static let feedbackError = rgba(220, 20, 60, 1)
+    public static let feedbackInformationBackground = rgba(30, 144, 255, 0.05)
+    public static let feedbackInformation = rgba(30, 144, 255, 1)
+    public static let feedbackSuccessBackground = rgba(0, 128, 0, 0.05)
+    public static let feedbackSuccess = rgba(0, 128, 0, 1)
+    public static let feedbackWarningBackground = rgba(255, 165, 0, 0.05)
+    public static let feedbackWarning = rgba(255, 165, 0, 1)
+    public static let focusColor = rgba(100, 100, 100, 0.5)
+    public static let focusOffsetX = 0
+    public static let focusOffsetY = 0
+    public static let focusRadius = 4
+    public static let focusSpread = 4
+    public static let focusType = dropShadow
+    public static let foreground = rgba(27, 27, 27, 1)
     public static let formHelperTextFontFamily = Arial
     public static let formHelperTextFontSize = 14
     public static let formHelperTextFontStyle = Regular
@@ -190,6 +197,12 @@ public class StyleDictionary {
     public static let gradientSingleWithMultipleColorStopsStops2Position = 0.65
     public static let gradientSingleWithMultipleColorStopsStops3Color = rgba(255, 0, 0, 1)
     public static let gradientSingleWithMultipleColorStopsStops3Position = 1
+    public static let grey1 = rgba(245, 245, 245, 1)
+    public static let grey2 = rgba(209, 209, 209, 1)
+    public static let grey3 = rgba(172, 172, 172, 1)
+    public static let grey4 = rgba(136, 136, 136, 1)
+    public static let grey5 = rgba(100, 100, 100, 1)
+    public static let grey6 = rgba(63, 63, 63, 1)
     public static let gridMultiple0Alignment = max
     public static let gridMultiple0Count = 7
     public static let gridMultiple0GutterSize = 20
@@ -236,12 +249,6 @@ public class StyleDictionary {
     public static let gridSingleGutterSize = 20
     public static let gridSinglePattern = columns
     public static let gridSingleSectionSize = 11
-    public static let grijs1 = rgba(245, 245, 245, 1)
-    public static let grijs2 = rgba(209, 209, 209, 1)
-    public static let grijs3 = rgba(172, 172, 172, 1)
-    public static let grijs4 = rgba(136, 136, 136, 1)
-    public static let grijs5 = rgba(100, 100, 100, 1)
-    public static let grijs6 = rgba(63, 63, 63, 1)
     public static let h1FontFamily = Arial
     public static let h1FontSize = 28
     public static let h1FontStyle = Bold
@@ -298,15 +305,15 @@ public class StyleDictionary {
     public static let h6TextDecoration = none
     public static let linkVisited = rgba(128, 0, 128, 1)
     public static let link = rgba(0, 0, 205, 1)
-    public static let notificatieKoptekstFontFamily = Arial
-    public static let notificatieKoptekstFontSize = 16
-    public static let notificatieKoptekstFontStyle = Bold
-    public static let notificatieKoptekstLetterSpacing = 0
-    public static let notificatieKoptekstLineHeight = 19
-    public static let notificatieKoptekstParagraphIndent = 0
-    public static let notificatieKoptekstParagraphSpacing = 0
-    public static let notificatieKoptekstTextCase = none
-    public static let notificatieKoptekstTextDecoration = none
+    public static let notificationHeadingFontFamily = Arial
+    public static let notificationHeadingFontSize = 16
+    public static let notificationHeadingFontStyle = Bold
+    public static let notificationHeadingLetterSpacing = 0
+    public static let notificationHeadingLineHeight = 19
+    public static let notificationHeadingParagraphIndent = 0
+    public static let notificationHeadingParagraphSpacing = 0
+    public static let notificationHeadingTextCase = none
+    public static let notificationHeadingTextDecoration = none
     public static let radiiMixedRadiiBottomLeft = 0
     public static let radiiMixedRadiiBottomRight = 3.5
     public static let radiiMixedRadiiTopLeft = 1
@@ -333,15 +340,14 @@ public class StyleDictionary {
     public static let statusBadgeParagraphSpacing = 8
     public static let statusBadgeTextCase = uppercase
     public static let statusBadgeTextDecoration = none
-    public static let tekstlinkFontFamily = Arial
-    public static let tekstlinkFontSize = 16
-    public static let tekstlinkFontStyle = Regular
-    public static let tekstlinkLetterSpacing = 0
-    public static let tekstlinkLineHeight = 24
-    public static let tekstlinkParagraphIndent = 0
-    public static let tekstlinkParagraphSpacing = 0
-    public static let tekstlinkTextCase = none
-    public static let tekstlinkTextDecoration = underline
-    public static let transparant = rgba(255, 255, 255, 1)
-    public static let voorgrond = rgba(27, 27, 27, 1)
+    public static let textlinkFontFamily = Arial
+    public static let textlinkFontSize = 16
+    public static let textlinkFontStyle = Regular
+    public static let textlinkLetterSpacing = 0
+    public static let textlinkLineHeight = 24
+    public static let textlinkParagraphIndent = 0
+    public static let textlinkParagraphSpacing = 0
+    public static let textlinkTextCase = none
+    public static let textlinkTextDecoration = underline
+    public static let transparent = rgba(255, 255, 255, 1)
 }

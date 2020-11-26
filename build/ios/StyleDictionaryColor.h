@@ -3,7 +3,7 @@
 // StyleDictionaryColor.h
 //
 // Do not edit directly
-// Generated on Thu, 19 Nov 2020 15:57:31 GMT
+// Generated on Thu, 26 Nov 2020 20:25:36 GMT
 //
 
 #import <UIKit/UIKit.h>
@@ -35,26 +35,27 @@ EffectDropShadowSingleColor,
 EffectInnerShadowMultiple0Color,
 EffectInnerShadowMultiple1Color,
 EffectInnerShadowMultiple2Color,
-Voorgrond,
-Grijs6,
-Grijs5,
-Grijs4,
-Grijs3,
-Grijs2,
-Grijs1,
-Achtergrond,
-FeedbackInformatie,
-FeedbackInformatieAchtergrond,
-FeedbackSucces,
-FeedbackSuccesAchtergrond,
-FeedbackWaarschuwing,
-FeedbackWaarschuwingAchtergrond,
-FeedbackFoutmelding,
-FeedbackFoutmeldingAchtergrond,
+Foreground,
+Grey6,
+Grey5,
+Grey4,
+Grey3,
+Grey2,
+Grey1,
+Background,
+FeedbackInformation,
+FeedbackInformationBackground,
+FeedbackSuccess,
+FeedbackSuccessBackground,
+FeedbackWarning,
+FeedbackWarningBackground,
+FeedbackError,
+FeedbackErrorBackground,
 Link,
 LinkVisited,
-Transparant,
-Designspecs
+Transparent,
+Designspecs,
+FocusColor
 };
 
 @interface StyleDictionaryColor : NSObject

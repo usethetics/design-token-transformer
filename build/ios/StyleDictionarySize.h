@@ -2,7 +2,7 @@
 // StyleDictionarySize.h
 //
 // Do not edit directly
-// Generated on Thu, 19 Nov 2020 15:57:31 GMT
+// Generated on Thu, 26 Nov 2020 20:25:36 GMT
 //
 
 #import <Foundation/Foundation.h>
@@ -144,11 +144,11 @@ extern float const H1LetterSpacing;
 extern float const H1LineHeight;
 extern float const H1ParagraphIndent;
 extern float const H1ParagraphSpacing;
-extern float const TekstlinkFontSize;
-extern float const TekstlinkLetterSpacing;
-extern float const TekstlinkLineHeight;
-extern float const TekstlinkParagraphIndent;
-extern float const TekstlinkParagraphSpacing;
+extern float const TextlinkFontSize;
+extern float const TextlinkLetterSpacing;
+extern float const TextlinkLineHeight;
+extern float const TextlinkParagraphIndent;
+extern float const TextlinkParagraphSpacing;
 extern float const BadgeFontSize;
 extern float const BadgeLetterSpacing;
 extern float const BadgeLineHeight;
@@ -159,11 +159,11 @@ extern float const StatusBadgeLetterSpacing;
 extern float const StatusBadgeLineHeight;
 extern float const StatusBadgeParagraphIndent;
 extern float const StatusBadgeParagraphSpacing;
-extern float const NotificatieKoptekstFontSize;
-extern float const NotificatieKoptekstLetterSpacing;
-extern float const NotificatieKoptekstLineHeight;
-extern float const NotificatieKoptekstParagraphIndent;
-extern float const NotificatieKoptekstParagraphSpacing;
+extern float const NotificationHeadingFontSize;
+extern float const NotificationHeadingLetterSpacing;
+extern float const NotificationHeadingLineHeight;
+extern float const NotificationHeadingParagraphIndent;
+extern float const NotificationHeadingParagraphSpacing;
 extern float const FormLabelFontSize;
 extern float const FormLabelLetterSpacing;
 extern float const FormLabelLineHeight;
@@ -179,3 +179,7 @@ extern float const FormHelperTextLetterSpacing;
 extern float const FormHelperTextLineHeight;
 extern float const FormHelperTextParagraphIndent;
 extern float const FormHelperTextParagraphSpacing;
+extern float const FocusRadius;
+extern float const FocusOffsetX;
+extern float const FocusOffsetY;
+extern float const FocusSpread;
