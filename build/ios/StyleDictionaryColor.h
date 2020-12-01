@@ -3,7 +3,7 @@
 // StyleDictionaryColor.h
 //
 // Do not edit directly
-// Generated on Thu, 26 Nov 2020 20:25:36 GMT
+// Generated on Tue, 01 Dec 2020 13:39:20 GMT
 //
 
 #import <UIKit/UIKit.h>
@@ -35,26 +35,28 @@ EffectDropShadowSingleColor,
 EffectInnerShadowMultiple0Color,
 EffectInnerShadowMultiple1Color,
 EffectInnerShadowMultiple2Color,
-Foreground,
-Grey6,
-Grey5,
-Grey4,
-Grey3,
-Grey2,
-Grey1,
-Background,
-FeedbackInformation,
-FeedbackInformationBackground,
-FeedbackSuccess,
-FeedbackSuccessBackground,
-FeedbackWarning,
-FeedbackWarningBackground,
-FeedbackError,
-FeedbackErrorBackground,
-Link,
-LinkVisited,
+ColorForeground,
+ColorGrey6,
+ColorGrey5,
+ColorGrey4,
+ColorGrey3,
+ColorGrey2,
+ColorGrey1,
+ColorBackground,
+ColorFeedbackInfo,
+BackgroundcolorFeedbackInfo,
+ColorFeedbackSuccess,
+BackgroundcolorFeedbackSuccess,
+ColorFeedbackWarning,
+BackgroundcolorFeedbackWarning,
+ColorFeedbackError,
+BackgroundcolorFeedbackError,
+ColorLink,
+ColorLinkVisited,
 Transparent,
 Designspecs,
+ColorBrandPrimary,
+ColorBrandSecondary,
 FocusColor
 };
 

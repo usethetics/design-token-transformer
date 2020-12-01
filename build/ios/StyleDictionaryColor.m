@@ -3,7 +3,7 @@
 // StyleDictionaryColor.m
 //
 // Do not edit directly
-// Generated on Thu, 26 Nov 2020 20:25:36 GMT
+// Generated on Tue, 01 Dec 2020 13:39:20 GMT
 //
 
 #import "StyleDictionaryColor.h"
@@ -66,6 +66,8 @@ rgba(0, 0, 205, 1),
 rgba(128, 0, 128, 1),
 rgba(255, 255, 255, 1),
 rgba(255, 0, 255, 1),
+rgba(47, 79, 79, 1),
+rgba(119, 136, 153, 1),
 rgba(100, 100, 100, 0.5)
     ];
   });

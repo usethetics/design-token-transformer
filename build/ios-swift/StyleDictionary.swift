@@ -3,14 +3,17 @@
 // StyleDictionary.swift
 //
 // Do not edit directly
-// Generated on Thu, 26 Nov 2020 20:25:36 GMT
+// Generated on Tue, 01 Dec 2020 13:39:20 GMT
 //
 
 
 import UIKit
 
 public class StyleDictionary {
-    public static let background = rgba(255, 255, 255, 1)
+    public static let backgroundcolorFeedbackError = rgba(220, 20, 60, 0.05)
+    public static let backgroundcolorFeedbackInfo = rgba(30, 144, 255, 0.05)
+    public static let backgroundcolorFeedbackSuccess = rgba(0, 128, 0, 0.05)
+    public static let backgroundcolorFeedbackWarning = rgba(255, 165, 0, 0.05)
     public static let badgeFontFamily = Arial
     public static let badgeFontSize = 14
     public static let badgeFontStyle = Bold
@@ -87,6 +90,22 @@ public class StyleDictionary {
     public static let bordersUnsupportedMultipleBordersStrokeJoin = miter
     public static let bordersUnsupportedMultipleBordersStrokeMiterAngle = 4
     public static let bordersUnsupportedMultipleBordersStrokeWeight = 1
+    public static let colorBackground = rgba(255, 255, 255, 1)
+    public static let colorBrandPrimary = rgba(47, 79, 79, 1)
+    public static let colorBrandSecondary = rgba(119, 136, 153, 1)
+    public static let colorFeedbackError = rgba(220, 20, 60, 1)
+    public static let colorFeedbackInfo = rgba(30, 144, 255, 1)
+    public static let colorFeedbackSuccess = rgba(0, 128, 0, 1)
+    public static let colorFeedbackWarning = rgba(255, 165, 0, 1)
+    public static let colorForeground = rgba(27, 27, 27, 1)
+    public static let colorGrey1 = rgba(245, 245, 245, 1)
+    public static let colorGrey2 = rgba(209, 209, 209, 1)
+    public static let colorGrey3 = rgba(172, 172, 172, 1)
+    public static let colorGrey4 = rgba(136, 136, 136, 1)
+    public static let colorGrey5 = rgba(100, 100, 100, 1)
+    public static let colorGrey6 = rgba(63, 63, 63, 1)
+    public static let colorLinkVisited = rgba(128, 0, 128, 1)
+    public static let colorLink = rgba(0, 0, 205, 1)
     public static let colorsMultipleFills0 = rgba(64, 255, 186, 1)
     public static let colorsMultipleFills1 = rgba(0, 0, 0, 0.1)
     public static let colorsSingleBlue = rgba(4, 74, 255, 1)
@@ -121,21 +140,12 @@ public class StyleDictionary {
     public static let effectInnerShadowMultiple2Type = innerShadow
     public static let effectLayerBlurRadius = 4
     public static let effectLayerBlurType = layerBlur
-    public static let feedbackErrorBackground = rgba(220, 20, 60, 0.05)
-    public static let feedbackError = rgba(220, 20, 60, 1)
-    public static let feedbackInformationBackground = rgba(30, 144, 255, 0.05)
-    public static let feedbackInformation = rgba(30, 144, 255, 1)
-    public static let feedbackSuccessBackground = rgba(0, 128, 0, 0.05)
-    public static let feedbackSuccess = rgba(0, 128, 0, 1)
-    public static let feedbackWarningBackground = rgba(255, 165, 0, 0.05)
-    public static let feedbackWarning = rgba(255, 165, 0, 1)
     public static let focusColor = rgba(100, 100, 100, 0.5)
     public static let focusOffsetX = 0
     public static let focusOffsetY = 0
     public static let focusRadius = 4
     public static let focusSpread = 4
     public static let focusType = dropShadow
-    public static let foreground = rgba(27, 27, 27, 1)
     public static let formHelperTextFontFamily = Arial
     public static let formHelperTextFontSize = 14
     public static let formHelperTextFontStyle = Regular
@@ -197,12 +207,6 @@ public class StyleDictionary {
     public static let gradientSingleWithMultipleColorStopsStops2Position = 0.65
     public static let gradientSingleWithMultipleColorStopsStops3Color = rgba(255, 0, 0, 1)
     public static let gradientSingleWithMultipleColorStopsStops3Position = 1
-    public static let grey1 = rgba(245, 245, 245, 1)
-    public static let grey2 = rgba(209, 209, 209, 1)
-    public static let grey3 = rgba(172, 172, 172, 1)
-    public static let grey4 = rgba(136, 136, 136, 1)
-    public static let grey5 = rgba(100, 100, 100, 1)
-    public static let grey6 = rgba(63, 63, 63, 1)
     public static let gridMultiple0Alignment = max
     public static let gridMultiple0Count = 7
     public static let gridMultiple0GutterSize = 20
@@ -250,7 +254,7 @@ public class StyleDictionary {
     public static let gridSinglePattern = columns
     public static let gridSingleSectionSize = 11
     public static let h1FontFamily = Arial
-    public static let h1FontSize = 28
+    public static let h1FontSize = 36
     public static let h1FontStyle = Bold
     public static let h1LetterSpacing = 0
     public static let h1LineHeight = 34
@@ -259,7 +263,7 @@ public class StyleDictionary {
     public static let h1TextCase = none
     public static let h1TextDecoration = none
     public static let h2FontFamily = Arial
-    public static let h2FontSize = 25
+    public static let h2FontSize = 32
     public static let h2FontStyle = Bold
     public static let h2LetterSpacing = 0
     public static let h2LineHeight = 30
@@ -268,7 +272,7 @@ public class StyleDictionary {
     public static let h2TextCase = none
     public static let h2TextDecoration = none
     public static let h3FontFamily = Arial
-    public static let h3FontSize = 22
+    public static let h3FontSize = 28
     public static let h3FontStyle = Bold
     public static let h3LetterSpacing = 0
     public static let h3LineHeight = 26
@@ -277,7 +281,7 @@ public class StyleDictionary {
     public static let h3TextCase = none
     public static let h3TextDecoration = none
     public static let h4FontFamily = Arial
-    public static let h4FontSize = 20
+    public static let h4FontSize = 24
     public static let h4FontStyle = Bold
     public static let h4LetterSpacing = 0
     public static let h4LineHeight = 24
@@ -286,7 +290,7 @@ public class StyleDictionary {
     public static let h4TextCase = none
     public static let h4TextDecoration = none
     public static let h5FontFamily = Arial
-    public static let h5FontSize = 18
+    public static let h5FontSize = 20
     public static let h5FontStyle = Bold
     public static let h5LetterSpacing = 0
     public static let h5LineHeight = 22
@@ -295,7 +299,7 @@ public class StyleDictionary {
     public static let h5TextCase = none
     public static let h5TextDecoration = none
     public static let h6FontFamily = Arial
-    public static let h6FontSize = 16
+    public static let h6FontSize = 18
     public static let h6FontStyle = Bold
     public static let h6LetterSpacing = 0
     public static let h6LineHeight = 19
@@ -303,8 +307,6 @@ public class StyleDictionary {
     public static let h6ParagraphSpacing = 0
     public static let h6TextCase = none
     public static let h6TextDecoration = none
-    public static let linkVisited = rgba(128, 0, 128, 1)
-    public static let link = rgba(0, 0, 205, 1)
     public static let notificationHeadingFontFamily = Arial
     public static let notificationHeadingFontSize = 16
     public static let notificationHeadingFontStyle = Bold
@@ -314,6 +316,15 @@ public class StyleDictionary {
     public static let notificationHeadingParagraphSpacing = 0
     public static let notificationHeadingTextCase = none
     public static let notificationHeadingTextDecoration = none
+    public static let pIntroFontFamily = Arial
+    public static let pIntroFontSize = 18
+    public static let pIntroFontStyle = Regular
+    public static let pIntroLetterSpacing = 0
+    public static let pIntroLineHeight = 27
+    public static let pIntroParagraphIndent = 0
+    public static let pIntroParagraphSpacing = 8
+    public static let pIntroTextCase = none
+    public static let pIntroTextDecoration = none
     public static let radiiMixedRadiiBottomLeft = 0
     public static let radiiMixedRadiiBottomRight = 3.5
     public static let radiiMixedRadiiTopLeft = 1
@@ -331,6 +342,15 @@ public class StyleDictionary {
     public static let sizesFrame = 32
     public static let sizesRect = 32
     public static let sizesShapeInComponent = 32
+    public static let smallTextFontFamily = Arial
+    public static let smallTextFontSize = 14
+    public static let smallTextFontStyle = Regular
+    public static let smallTextLetterSpacing = 0
+    public static let smallTextLineHeight = 21
+    public static let smallTextParagraphIndent = 0
+    public static let smallTextParagraphSpacing = 0
+    public static let smallTextTextCase = none
+    public static let smallTextTextDecoration = none
     public static let statusBadgeFontFamily = Arial
     public static let statusBadgeFontSize = 12
     public static let statusBadgeFontStyle = Bold

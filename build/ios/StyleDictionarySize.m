@@ -3,7 +3,7 @@
 // StyleDictionarySize.m
 //
 // Do not edit directly
-// Generated on Thu, 26 Nov 2020 20:25:36 GMT
+// Generated on Tue, 01 Dec 2020 13:39:20 GMT
 //
 
 #import "StyleDictionarySize.h"
@@ -115,32 +115,32 @@ float const BodytextLetterSpacing = 0;
 float const BodytextLineHeight = 24;
 float const BodytextParagraphIndent = 0;
 float const BodytextParagraphSpacing = 8;
-float const H6FontSize = 16;
+float const H6FontSize = 18;
 float const H6LetterSpacing = 0;
 float const H6LineHeight = 19;
 float const H6ParagraphIndent = 0;
 float const H6ParagraphSpacing = 0;
-float const H5FontSize = 18;
+float const H5FontSize = 20;
 float const H5LetterSpacing = 0;
 float const H5LineHeight = 22;
 float const H5ParagraphIndent = 0;
 float const H5ParagraphSpacing = 0;
-float const H4FontSize = 20;
+float const H4FontSize = 24;
 float const H4LetterSpacing = 0;
 float const H4LineHeight = 24;
 float const H4ParagraphIndent = 0;
 float const H4ParagraphSpacing = 0;
-float const H3FontSize = 22;
+float const H3FontSize = 28;
 float const H3LetterSpacing = 0;
 float const H3LineHeight = 26;
 float const H3ParagraphIndent = 0;
 float const H3ParagraphSpacing = 0;
-float const H2FontSize = 25;
+float const H2FontSize = 32;
 float const H2LetterSpacing = 0;
 float const H2LineHeight = 30;
 float const H2ParagraphIndent = 0;
 float const H2ParagraphSpacing = 0;
-float const H1FontSize = 28;
+float const H1FontSize = 36;
 float const H1LetterSpacing = 0;
 float const H1LineHeight = 34;
 float const H1ParagraphIndent = 0;
@@ -180,6 +180,16 @@ float const FormHelperTextLetterSpacing = 0;
 float const FormHelperTextLineHeight = 24;
 float const FormHelperTextParagraphIndent = 0;
 float const FormHelperTextParagraphSpacing = 8;
+float const PIntroFontSize = 18;
+float const PIntroLetterSpacing = 0;
+float const PIntroLineHeight = 27;
+float const PIntroParagraphIndent = 0;
+float const PIntroParagraphSpacing = 8;
+float const SmallTextFontSize = 14;
+float const SmallTextLetterSpacing = 0;
+float const SmallTextLineHeight = 21;
+float const SmallTextParagraphIndent = 0;
+float const SmallTextParagraphSpacing = 0;
 float const FocusRadius = 4;
 float const FocusOffsetX = 0;
 float const FocusOffsetY = 0;

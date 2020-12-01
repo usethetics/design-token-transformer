@@ -2,7 +2,7 @@
 // StyleDictionarySize.h
 //
 // Do not edit directly
-// Generated on Thu, 26 Nov 2020 20:25:36 GMT
+// Generated on Tue, 01 Dec 2020 13:39:20 GMT
 //
 
 #import <Foundation/Foundation.h>
@@ -179,6 +179,16 @@ extern float const FormHelperTextLetterSpacing;
 extern float const FormHelperTextLineHeight;
 extern float const FormHelperTextParagraphIndent;
 extern float const FormHelperTextParagraphSpacing;
+extern float const PIntroFontSize;
+extern float const PIntroLetterSpacing;
+extern float const PIntroLineHeight;
+extern float const PIntroParagraphIndent;
+extern float const PIntroParagraphSpacing;
+extern float const SmallTextFontSize;
+extern float const SmallTextLetterSpacing;
+extern float const SmallTextLineHeight;
+extern float const SmallTextParagraphIndent;
+extern float const SmallTextParagraphSpacing;
 extern float const FocusRadius;
 extern float const FocusOffsetX;
 extern float const FocusOffsetY;
